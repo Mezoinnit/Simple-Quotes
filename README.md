@@ -4,7 +4,7 @@ A curated collection of short, inspiring quotes to brighten your day.
 
 Features:
 
-    Daily Quotes: Receive a new, inspiring quote every day.
+  Daily Quotes: Receive a new, inspiring quote every day.
 
 
 Preview
@@ -13,9 +13,11 @@ Preview
 
 
 Technologies:
+
     - Kotlin
     - MVVM Architecture
 
 Todo-list:
+
     online: Get quotes from the web
     Favorite: Favorite Page
